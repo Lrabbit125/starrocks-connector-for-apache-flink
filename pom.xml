@@ -57,7 +57,7 @@ limitations under the License.
         <flink.version>1.20.0</flink.version>
         <kafka.connector.version>3.4.0-1.20</kafka.connector.version>
         <arrow.version>5.0.0</arrow.version>
-        <kafka.version>2.8.1</kafka.version>
+        <kafka.version>3.7.2</kafka.version>
         <scala.binary.version>2.12</scala.binary.version>
         <guava.version>31.1-jre</guava.version>
         <shading.prefix>com.starrocks.shade</shading.prefix>
